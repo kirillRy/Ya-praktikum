@@ -1,4 +1,4 @@
-[Обычная ссылка в строке](https://praktikum.yandex.ru/data-analyst/)
+[Яндекс. Практикум "Аналитик данных"](https://praktikum.yandex.ru/data-analyst/)
 
 Описание всех проектов:
 
