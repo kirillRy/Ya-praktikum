@@ -1,4 +1,4 @@
-[https://praktikum.yandex.ru/data-analyst/][Произвольный регистронезависимый текст]
+[Обычная ссылка в строке](https://praktikum.yandex.ru/data-analyst/)
 
 Описание всех проектов:
 
