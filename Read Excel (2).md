@@ -35,13 +35,13 @@
     </tr>
     <tr>
       <td>4</td>
-      <td>Аналитика в авиакомпании</td>
+      <td><a href="https://nbviewer.jupyter.org/github/kirillRy/Ya-praktikum/blob/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/1a8faff3-2e4c-4244-b91f-ed4501469e26.ipynb">Аналитика в авиакомпании</a></td>
       <td>Анализ перелетов по моделям самолетов за определенный период. Составление карты перелетов</td>
       <td>pandas, matplotlib, bokeh</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Анализ бизнес-показателей</td>
+      <td><a href="https://nbviewer.jupyter.org/github/kirillRy/Ya-praktikum/blob/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/Business.ipynb">Анализ бизнес-показателей</a></td>
       <td>Стажировка в отделе аналитики Яндекс.Афиши. Задача: помочь маркетологам оптимизировать маркетинговые затраты. Расчет бизнес-метрик: Retention, LTV, CAC, ROMI.</td>
       <td>pandas, matplotlib, math, scipy, numpy, seaborn, matplotlib</td>
     </tr>
