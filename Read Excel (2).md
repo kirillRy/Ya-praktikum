@@ -47,25 +47,26 @@
     </tr>
     <tr>
       <td>6</td>
-      <td>Аналитика крупного интернет-магазина</td>
+      <td><a href="https://nbviewer.jupyter.org/github/kirillRy/Ya-praktikum/blob/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0%20%281%29.ipynb">Аналитика крупного интернет-магазина</a></td>
       <td>Анализ результатов A/B-теста.</td>
       <td>pandas, matplotlib, math, scipy, numpy, seaborn, matplotlib</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Аналитика мобильного приложения</td>
+      <td><a href="https://nbviewer.jupyter.org/github/kirillRy/Ya-praktikum/blob/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/816a1f51-3cb5-4d11-8417-93aa62688b70.ipynb">Аналитика мобильного приложения</a></td>
       <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
       <td>pandas, matplotlib, math, scipy, numpy, seaborn, matplotlib</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Дашборд для Яндекс.Дзен</td>
-      <td>Создание агрегирующий таблиц, построение пайплайна, дашборда</td>
+      <td><a href="https://yadi.sk/d/ZNmNtMBYxro_hg">Дашборд для Яндекс.Дзен</a></td>
+      <td>Создание агрегирующих таблиц, построение пайплайна, дашборда</td>
       <td>getopt, sqlalchemy, dash, plotly</td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Анализ сети фитнес-центров</td>
+      <td><a href="https://nbviewer.jupyter.org/github/kirillRy/Ya-praktikum/blob/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%81%D0%B5%D1%82%D0%B8%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D0%B2/c66fd603-fa86-41a4-b0a3-6760a37c6445%20%281%29.ipynb">Анализ сети фитнес-центров</a></td>
+      <td>Создание агрегирующих таблиц, построение пайплайна, дашборда</td>
       <td>Прогнозирование вероятности оттока клиентов, кластеризация клиентов.</td>
       <td>pandas, matplotlib, plotly, seaborn, numpy, sklearn, scipy</td>
     </tr>
