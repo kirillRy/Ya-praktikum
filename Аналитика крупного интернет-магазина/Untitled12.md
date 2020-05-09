@@ -1,23 +1,4 @@
 
-
-```python
-import pandas as pd
-```
-
-
-```python
-x = ["3123dfsafsfsdfsdsdv", "zvxczvcxv"]
-y = ["a", "b"]
-```
-
-
-```python
-pd.DataFrame(index=y, data = x)
-```
-
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
