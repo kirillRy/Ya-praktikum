@@ -1,24 +1,4 @@
-```python
-import pandas as pd 
-
-```
-
-
-```python
-df = pd.read_excel('/Users/ryzhonkovme.com/Desktop/README.xlsx', )
-```
-
-
-```python
-df
-```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
+   .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
 
