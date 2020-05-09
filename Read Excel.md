@@ -1,40 +1,11 @@
-```python
-import pandas as pd 
-```
 
-
-```python
-df = pd.read_excel('/Users/ryzhonkovme.com/Desktop/README.xlsx', sept='\n')
-```
-
-
-```python
-df
-```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
       <th>Номер</th>
-      <th>Название \n</th>
+      <th>Название</th>
       <th>Содержание</th>
       <th>Используемые инструменты, библиотеки\n</th>
     </tr>
