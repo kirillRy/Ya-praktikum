@@ -54,7 +54,7 @@
     <tr>
       <td>7</td>
       <td><a href="https://nbviewer.jupyter.org/github/kirillRy/Ya-praktikum/blob/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/816a1f51-3cb5-4d11-8417-93aa62688b70.ipynb">Аналитика мобильного приложения</a></td>
-      <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
+      <td>АВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
       <td>pandas, matplotlib, math, scipy, numpy, seaborn, matplotlib</td>
     </tr>
     <tr>
