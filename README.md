@@ -79,7 +79,7 @@
       <td>11</td>
       <td><a href="https://nbviewer.jupyter.org/github/kirillRy/Ya-praktikum/blob/master/%D0%91%D0%B0%D0%BD%D0%BA%D0%B8%20%E2%80%94%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D1%8E/c9a6e23d-3dd9-484b-8ab7-78c16d037dcf%20%281%29.ipynb">Банки — Сегментация пользователей по потреблению</a></td>
       <td>Анализ клиентов регионального банка и сегментирование пользователей по количеству потребляемых продуктов, создание модели для прогнозирования оттока.</td>
-      <td>pandas, plotly, matplotlib,seaborn, numpy, sklearn, scipy</td>
+      <td>pandas, plotly, matplotlib,seaborn, numpy, sklearn, ML, scipy</td>
     </tr>
   </tbody>
 </table>
