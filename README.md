@@ -61,7 +61,7 @@
       <td>8</td>
       <td><a href="https://yadi.sk/d/ZNmNtMBYxro_hg">Дашборд для Яндекс.Дзен</a></td>
       <td>Создание агрегирующих таблиц, построение пайплайна, дашборда</td>
-      <td>getopt, sqlalchemy, dash, plotly</td>
+      <td>getopt, sqlalchemy, dash, plotly, SQL</td>
     </tr>
     <tr>
       <td>9</td>
